@@ -525,3 +525,12 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+.navbar {
+    background-color: white;
+	border-bottom: 1px solid #eee;
+	}
+	
+.page, .post {
+    margin-bottom: 4em;
+    padding-top: 70px;
+	}
